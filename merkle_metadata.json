@@ -1,0 +1,15 @@
+{
+    "files": [
+        "file1.txt",
+        "file2.txt",
+        "file3.txt",
+        "file4.txt"
+    ],
+    "leaf_hashes": [
+        "fe15f933a12514a93e807ee3cb9cfac1928e00bd6210297706e67a2d16e13621",
+        "053d80eb3c14ff6f80522e0d7dfc193660c2cba2da21e36f4a68e1f4e7da92bd",
+        "c024fb2280c7b084940f254e905c8a7f37da328bd95e6434f45f7e1ffa95975d",
+        "ecfb2eb9b25ce3a861ffd752d854e9777a80b7597c5d6d1c778d4fe6aac7d9f4"
+    ],
+    "root": "8bcc2175899776f795a454559f83522c387281eab9bf252d5f22a1b4f155d728"
+}
